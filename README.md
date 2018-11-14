@@ -1,4 +1,4 @@
-# 享贞前端相关技术方案及沉淀
+# 微信前端技术体系白皮书
 
 ## 说明
 > 这里汇聚了前端相关开发的全部文档
@@ -33,11 +33,6 @@
   [maxiang](https://maxiang.io/) (web)
   
 
-> author:享贞前端团队
+> author:一醉
 
-<<<<<<< HEAD
-=======
 ![](https://assets.51wakeup.com/assets/2018/daily-work/markdown/handbook.png)
-
- 
->>>>>>> d057b69d35005188838d5aa41abeac959b0840aa
